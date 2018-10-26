@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Preach the Word
+## 2 Timothy 4:1-5
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/preach.svg)](https://travis-ci.org/sermons/preach)
+[![Node deps](https://david-dm.org/sermons/preach.svg)](https://david-dm.org/sermons/preach)
+[![Node devDeps](https://david-dm.org/sermons/preach/dev-status.svg)](https://david-dm.org/sermons/preach?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
