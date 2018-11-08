@@ -53,10 +53,10 @@ fulfill your ministry.
 1. Sober [(v5)](# "ref")
 
 ---
-preach the word; <br>
-be ready in season and out of season; <br>
-reprove, rebuke, and exhort, <br>
-with complete patience and teaching. 
+**Preach** the word; <br>
+be **ready** in season and out of season; <br>
+**reprove**, **rebuke**, and **exhort**, <br>
+with complete **patience** and **teaching**. 
 
 [2 Timothy 4:2 (ESV)](# "ref")
 
@@ -69,14 +69,14 @@ with complete patience and teaching.
 
 ---
 For the time is coming when people <br>
-will not endure sound teaching,
+will not endure **sound** teaching,
 
-but having itching ears they will accumulate for <br>
-themselves teachers to suit their own passions, 
+but having **itching** ears they will **accumulate** for <br>
+themselves teachers to suit their own **passions**, 
 
 [4](# "ref")
-and will turn away from listening to the truth <br>
-and wander off into myths. 
+and will **turn away** from listening to the truth <br>
+and wander off into **myths**. 
 
 [2 Timothy 4:3-4 (ESV)](# "ref")
 
@@ -88,9 +88,9 @@ and wander off into myths.
 ## outline
 
 ---
-As for you, always be sober-minded, <br>
-endure suffering, do the work of an evangelist, <br>
-fulfill your ministry.
+As for you, always be **sober**-minded, <br>
+endure **suffering**, do the work of an **evangelist**, <br>
+fulfill your **ministry**.
 
 [2 Timothy 4:5 (ESV)](# "ref")
 
