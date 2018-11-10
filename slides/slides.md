@@ -73,7 +73,7 @@ with complete **patience** and **teaching**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Do I **know** God's Word well enough to **proclaim** it?
 
 ---
 ## outline
@@ -96,7 +96,7 @@ and wander off into **myths**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# How do I **respond** when others **turn away** from the truth?
 
 ---
 ## outline
@@ -114,7 +114,7 @@ fulfill your **ministry**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# What is the work of an **evangelist**?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
