@@ -68,6 +68,9 @@ with complete **patience** and **teaching**.
 
 [2 Timothy 4:2 (ESV)](# "ref")
 
+>>>
++ 1:13 follow pattern
+
 ---
 <!-- .slide: data-background="white" -->
 # Q1
@@ -88,6 +91,9 @@ and wander off into **myths**.
 
 [2 Timothy 4:3-4 (ESV)](# "ref")
 
+>>>
++ 2:24-26 correct opponents w/gentleness
+
 ---
 <!-- .slide: data-background="white" -->
 # Q2
@@ -101,6 +107,10 @@ endure **suffering**, do the work of an **evangelist**, <br>
 fulfill your **ministry**.
 
 [2 Timothy 4:5 (ESV)](# "ref")
+
+>>>
++ sober: 2:22 flee youthful passions
++ suffering: 3:12-13 persecutions 
 
 ---
 <!-- .slide: data-background="white" -->
