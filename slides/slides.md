@@ -4,9 +4,17 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# What is our **vocation**?
 
 [###](#/outline "secret")
+
+>>>
++ voice: **calling**
++ usu. think of **passion**, dream, skill
+  + **self**-selected
++ but our **Creator** calls us
++ already given us fruitful **work** to do
++ for us to do **together**
 
 ---
 [1](# "ref")
@@ -99,6 +107,7 @@ fulfill your **ministry**.
 # Q3
 
 ---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 **Preach** the word; <br>
 be **ready** in season and out of season; <br>
 **reprove**, **rebuke**, and **exhort**, <br>
