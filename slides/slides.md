@@ -48,9 +48,9 @@ fulfill your ministry.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Preach the Word [(2Tim4)](# "ref")
-1. The Word [(v1-2)](# "ref")
-1. Itching Ears [(v3-4)](# "ref")
-1. Sober [(v5)](# "ref")
+1. Action [(v1-2)](# "ref")
+1. Opposition [(v3-4)](# "ref")
+1. Character [(v5)](# "ref")
 
 ---
 **Preach** the word; <br>
