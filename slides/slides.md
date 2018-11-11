@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> id="title" -->
 # Preach the Word
 ## 2 Timothy 4:1-5
 
@@ -61,11 +61,11 @@ fulfill your ministry.
 [2 Timothy 4:5 (ESV) (p.3/3)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> id="outline" class="outline" -->
 ## Preach the Word [(2Tim4)](# "ref")
-1. **Practise** [(v1-2)](# "ref")
+1. **Proclamation** [(v1-2)](# "ref")
 1. **Opposition** [(v3-4)](# "ref")
-1. **Character** [(v5)](# "ref")
+1. **Calling** [(v5)](# "ref")
 
 >>>
 + **Timothy**: young pastor in Ephesus
@@ -330,7 +330,11 @@ with complete **patience** and **teaching**.
 + not **optional**: imminent **return**
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> class="outline" -->
+## Preach the Word [(2Tim4)](# "ref")
+1. Proclamation [(v1-2)](# "ref")
+1. **Opposition** [(v3-4)](# "ref")
+1. Calling [(v5)](# "ref")
 
 >>>
 + invest **personally**: mentorship, example
@@ -442,7 +446,11 @@ patiently **enduring** evil, <br>
 + **turn** to fiction and away from truth
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> class="outline" -->
+## Preach the Word [(2Tim4)](# "ref")
+1. Proclamation [(v1-2)](# "ref")
+1. Opposition [(v3-4)](# "ref")
+1. **Calling** [(v5)](# "ref")
 
 >>>
 + return to **Timothy**:
@@ -534,7 +542,7 @@ do the **work** of an **evangelist**, <br>
   + fulfill being a **servant** in the kingdom of God
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 **Preach** the word; <br>
 be **ready** in season and out of season; <br>
 **reprove**, **rebuke**, and **exhort**, <br>
@@ -543,4 +551,4 @@ with complete **patience** and **teaching**.
 [2 Timothy 4:2 (ESV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> class="empty" -->
