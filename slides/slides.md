@@ -82,6 +82,8 @@ fulfill your ministry.
 + Paul uses a strong + personal **imperative** in v1:
 
 ---
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
+
 I **charge** you <br>
 in the presence of God and of **Christ Jesus**, <br>
 who is to **judge** the living and the dead
@@ -110,6 +112,7 @@ who is to **judge** the living and the dead
 + so we **must** proclaim this!
 
 ---
+<!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
 **Preach** the word; <br>
 be **ready** in season and out of season; <br>
 **reprove**, **rebuke**, and **exhort**, <br>
@@ -131,6 +134,7 @@ with complete **patience** and **teaching**.
 + you were **made** to do this:
 
 ---
+<!-- .slide: <%= bg("USAF_taps-170515-F-IT851-172.jpg") %> -->
 **Preach** the word
 
 [2 Timothy 4:2a (ESV)](# "ref")
@@ -147,6 +151,7 @@ with complete **patience** and **teaching**.
 + **what** do we preach?
 
 ---
+<!-- .slide: <%= bg("unsplash-y02jEX_B0O0-fountain_pen.jpg") %> -->
 Preach **the Word**
 
 [2 Timothy 4:2a (ESV)](# "ref")
@@ -165,6 +170,7 @@ Preach **the Word**
   + **Paul** to Timothy:
 
 ---
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Follow the **pattern** of the **sound words** <br>
 that you have heard from me, <br>
 in the **faith** and **love** that are in Christ Jesus.
@@ -185,6 +191,7 @@ in the **faith** and **love** that are in Christ Jesus.
 + **when** do we deliver the message?
 
 ---
+<!-- .slide: <%= bg("unsplash-ghbepAO7BCs-vancouver_street.jpg") %> -->
 be **ready** in season and out of season
 
 [2 Timothy 4:2b (ESV)](# "ref")
@@ -207,6 +214,7 @@ be **ready** in season and out of season
 + **how** do we proclaim God's Word?
 
 ---
+<!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> -->
 **reprove**, rebuke, and exhort
 
 [2 Timothy 4:2c (ESV)](# "ref")
@@ -227,6 +235,7 @@ be **ready** in season and out of season
 + **holiness** &rArr; **sin** &rArr; **grace**
 
 ---
+<!-- .slide: <%= bg("unsplash-K3uOmmlQmOo-pencil_shavings.jpg") %> -->
 reprove, **rebuke**, and exhort
 
 [2 Timothy 4:2c (ESV)](# "ref")
@@ -246,6 +255,7 @@ reprove, **rebuke**, and exhort
   + to **encourage**:
 
 ---
+<!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
 reprove, rebuke, and **exhort**
 
 [2 Timothy 4:2c (ESV)](# "ref")
@@ -282,6 +292,7 @@ reprove, rebuke, and **exhort**
   + but provides a **path** home
 
 ---
+<!-- .slide: <%= bg("father_son_walk.jpg") %> -->
 with complete **patience** and **teaching**. 
 
 [2 Timothy 4:2d (ESV)](# "ref")
@@ -302,6 +313,7 @@ with complete **patience** and **teaching**.
   + to Timothy the **apprentice**:
 
 ---
+<!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
 **Preach** the **word**; <br>
 be **ready** in season and out of season; <br>
 **reprove**, **rebuke**, and **exhort**, <br>
@@ -348,6 +360,7 @@ with complete **patience** and **teaching**.
   + judge as **irredeemable**
 
 ---
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 For the time is coming when people <br>
 will not **endure sound teaching**,
 
@@ -373,6 +386,7 @@ will not **endure sound teaching**,
 + so what **voices** will they listen to?
 
 ---
+<!-- .slide: <%= bg("unsplash-6H9H-tYPUQQ-book.jpg") %> -->
 but having **itching** ears <br>
 they will **accumulate** for themselves <br>
 teachers to suit their own **passions**, 
@@ -396,6 +410,7 @@ teachers to suit their own **passions**,
   + a willful change of **direction**:
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 and will **turn away** from listening to the truth <br>
 and **wander off** into **myths**. 
 
@@ -421,6 +436,7 @@ and **wander off** into **myths**.
   + earlier in ch2:
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 The Lord's servant must not be **quarrelsome** <br>
 but **kind** to everyone, able to **teach**, <br>
 patiently **enduring** evil, <br>
@@ -460,6 +476,7 @@ patiently **enduring** evil, <br>
 + stay **focused** on your task:
 
 ---
+<!-- .slide: <%= bg("unsplash-tAH2cA_BL5g-wine_friends.jpg") %> -->
 As for you, always be **sober**-minded, <br>
 endure **suffering**,
 
@@ -485,6 +502,7 @@ endure **suffering**,
   + earlier in ch3:
 
 ---
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 Indeed, all who desire to live a **godly** life <br>
 in Christ Jesus will be **persecuted**,
 
@@ -507,6 +525,7 @@ from bad to **worse**, deceiving and being **deceived**.
 + also stay focused on our **mandate**:
 
 ---
+<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
 do the **work** of an **evangelist**, <br>
 **fulfill** your **ministry**.
 
