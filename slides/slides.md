@@ -93,9 +93,13 @@ who is to **judge** the living and the dead
   + pastors, those "called" to ministry
 + inasmuch as none of us are **exempt**
   + from facing **judgment**
-+ in light of **reality** of Christ's imminent **return**
 + the challenge given is not **optional**
   + a **hobby**, when I have **time** to
++ **this** is the **reality**:
+  + Christ **will** return
+  + He **will** judge every person
+  + each one **must** repent, turn to Him
++ so we **must** proclaim this!
 
 ---
 **Preach** the word; <br>
@@ -106,6 +110,14 @@ with complete **patience** and **teaching**.
 [2 Timothy 4:2 (ESV)](# "ref")
 
 >>>
++ Primary **imperative** is "preach"
+  + augmented by **readiness**
+  + 
++ **preach**: proclaim, herald
+  + **ambassador** in **foreign** land
+  + speaks only what **king** sends
+  + but with full **authority** of king
++ 
 + 1:13 follow pattern
 
 ---
