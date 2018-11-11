@@ -1,6 +1,7 @@
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> id="title" -->
 # Preach the Word
 ## 2 Timothy 4:1-5
+[Aaron Burden](https://unsplash.com/photos/c333d6YEhi0 "caption")
 
 >>>
 + monthly series on traits of a **pastor**
@@ -83,7 +84,6 @@ fulfill your ministry.
 
 ---
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
-
 I **charge** you <br>
 in the presence of God and of **Christ Jesus**, <br>
 who is to **judge** the living and the dead
@@ -119,6 +119,7 @@ be **ready** in season and out of season; <br>
 with complete **patience** and **teaching**. 
 
 [2 Timothy 4:2 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/1EbsMYrAu-s "caption")
 
 >>>
 + Primary **imperative** is "preach"
@@ -138,6 +139,7 @@ with complete **patience** and **teaching**.
 **Preach** the word
 
 [2 Timothy 4:2a (ESV)](# "ref")
+[Joint Base Langley-Eustis, VA. USAF / Areca T. Bell](https://www.acc.af.mil/News/Article-Display/Article/1184301/national-police-week-defenders-remember-fallen/ "caption")
 
 >>>
 + preach: proclaim, **herald**
@@ -155,6 +157,7 @@ with complete **patience** and **teaching**.
 Preach **the Word**
 
 [2 Timothy 4:2a (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0 "caption")
 
 >>>
 + ambassador carries **letter**
@@ -176,6 +179,7 @@ that you have heard from me, <br>
 in the **faith** and **love** that are in Christ Jesus.
 
 [2 Timothy 1:3 (ESV)](# "ref")
+[Legenäsgatan, Sweden. Jon Flobrant](https://unsplash.com/photos/C2PvO6dOORY "caption")
 
 >>>
 + **pattern**: type, tracing
@@ -195,6 +199,7 @@ in the **faith** and **love** that are in Christ Jesus.
 be **ready** in season and out of season
 
 [2 Timothy 4:2b (ESV)](# "ref")
+[Vancouver, BC.  Aditya Chinchure](https://unsplash.com/photos/ghbepAO7BCs "caption")
 
 >>>
 + at **good** / opportune time, and
@@ -218,6 +223,7 @@ be **ready** in season and out of season
 **reprove**, rebuke, and exhort
 
 [2 Timothy 4:2c (ESV)](# "ref")
+[Ricardo Gomez Angel](https://unsplash.com/photos/-lYk9rDI2UU "caption")
 
 >>>
 + 3 **imperatives** that expand on 
@@ -239,6 +245,7 @@ be **ready** in season and out of season
 reprove, **rebuke**, and exhort
 
 [2 Timothy 4:2c (ESV)](# "ref")
+[Angelina Litvin](https://unsplash.com/photos/K3uOmmlQmOo "caption")
 
 >>>
 + (ἐπιτίμησον): root is **honour**
@@ -259,6 +266,7 @@ reprove, **rebuke**, and exhort
 reprove, rebuke, and **exhort**
 
 [2 Timothy 4:2c (ESV)](# "ref")
+[&copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
 
 >>>
 + (παρακάλεσον): **encourage**
@@ -320,6 +328,7 @@ be **ready** in season and out of season; <br>
 with complete **patience** and **teaching**. 
 
 [2 Timothy 4:2 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/1EbsMYrAu-s "caption")
 
 >>>
 + as a **herald** in a foreign country
@@ -392,6 +401,7 @@ they will **accumulate** for themselves <br>
 teachers to suit their own **passions**, 
 
 [2 Timothy 4:3b (ESV)](# "ref")
+[Brandi Redd](https://unsplash.com/photos/6H9H-tYPUQQ "caption")
 
 >>>
 + **passions** (ἐπιθυμίας): flame, upswelling of desire
@@ -415,6 +425,7 @@ and will **turn away** from listening to the truth <br>
 and **wander off** into **myths**. 
 
 [2 Timothy 4:4 (ESV)](# "ref")
+[Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 
 >>>
 + turn **away** (ἀποστρέψουσιν) from truth
@@ -444,6 +455,7 @@ patiently **enduring** evil, <br>
 **correcting** his opponents with **gentleness**. 
 
 [2 Timothy 2:24-25 (ESV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + God may perhaps grant them **repentance**
