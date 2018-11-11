@@ -69,18 +69,21 @@ fulfill your ministry.
 1. **Calling** [(v5)](# "ref")
 
 >>>
-+ **Timothy**: young pastor in Ephesus
-  + Paul: **mentor** ("true **son** in the faith")
++ Paul: **mentor** to Timothy
+  + young **pastor** in Ephesus
+  + "true **son** in the faith"
 + 1 Tim: instr regarding **church**
-+ 2 Tim: more **personal**, about Timothy **himself**
++ 2 Tim: more **personal**
+  + about Timothy **himself**
 + repeated **structure**:
   + **tasks** / charge for Timothy
-  + **warning** about those who would oppose gospel
-  + "**but you**", persevere in proven character
+  + **warning**: those who oppose gospel
+  + "**but you**", persevere in mandate
 + ch4a: **climax** of letter, 
-  + **strongest** distillation of this structure
+  + **strongest** distillation of struct
   + focus mostly on **action** (v1-2)
-+ Paul uses a strong + personal **imperative** in v1:
++ in v1, Paul uses a 
+  + strong + personal **imperative**:
 
 ---
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
@@ -98,8 +101,8 @@ who is to **judge** the living and the dead
 + not "I **tell** you to do this", but
   + "This is what you **need** to do"
   + the **truth** of who you are
-+ command in today's passage is not only
-  + for "**super**"-Christians
++ this command is not only for
+  + "**super**"-Christians
   + pastors, those "called" to ministry
 + inasmuch as none of us are **exempt**
   + from facing **judgment**
@@ -147,7 +150,7 @@ with complete **patience** and **teaching**.
 + speaks only what **king** sends
   + but with full **authority** of king
 + **citizenship** not of this world
-  + but earnestly **care** for the land we live in
+  + but earnestly **care** for it
 + communicate God's **judgment**
   + and Christ's **mercy**
 + **what** do we preach?
@@ -184,14 +187,15 @@ in the **faith** and **love** that are in Christ Jesus.
 >>>
 + **pattern**: type, tracing
   + **sound**: healthy, cf 4:3
-+ follow **example** of healthy, grounded doctrine
-  + not just **content** of Scripture
-  + but **attitude** towards Scripture
++ follow **example**
+  + of **healthy**, grounded doctrine
++ not just **content** of Scripture
+  + but **attitude** towards Scripture:
 + take it **seriously**
   + not as **fable** / allegory
   + or **art** whose meaning is **constructed** by viewer
-+ **message** from the King to this foreign land
-  + we are the **ambassadors** carrying the message
++ **message** from King to foreign land
+  + **ambassadors** carry message
 + **when** do we deliver the message?
 
 ---
@@ -207,7 +211,7 @@ be **ready** in season and out of season
   + not **convenient**
 + ready: **stand** upon, be present
   + "half the battle is **showing up**"
-+ we like to **schedule** when HS can move
++ we like to **schedule** HS to move
   + special **Christmas** outreach
   + evangelistic meetings, **altar call**
 + standing **ready** means being **present**
@@ -228,15 +232,16 @@ be **ready** in season and out of season
 >>>
 + 3 **imperatives** that expand on 
   + the **actions** of how to preach
-+ **reprove** (ἔλεγξον): expose, convict, demonstrate
++ **reprove** (ἔλεγξον): expose, convict
   + **lay out** evidence clearly
-  + judge: finding of **fact**, what **happened**
-+ not that **we** are the judge! God is
+  + judge: finding of **fact**
+  + determine what **happened**
++ not that **we** are the judge! **God** is
   + not that we are **perfect**:
-  + illustrate being **forgiven**
+  + we illustrate being **forgiven**
 + who **God** is: his **holiness**
   + who **we** are: made to be **holy**
-  + but **fallen** in rebellion to His authority
+  + **fallen**, rebel to His authority
   + what **Christ** has done: **grace**
 + **holiness** &rArr; **sin** &rArr; **grace**
 
@@ -251,14 +256,13 @@ reprove, **rebuke**, and exhort
 + (ἐπιτίμησον): root is **honour**
   + to **esteem**, assign **value**
 + e.g., teacher handing back **exams**:
-  + "great job! great job! **meh...** great job!"
+  + "great job! great job! **meh...**"
 + **we** do not **judge** anyone
   + God has already **revealed** 
   + what He **requires** of man
-+ **rebuke** means applying God's standard
++ **rebuke**: apply God's standard
   + to **our** actions + priorities
-+ give **warning** and
-  + direct **back** to right path
++ **warn** + direct **back** to right path
   + to **encourage**:
 
 ---
@@ -276,14 +280,14 @@ reprove, rebuke, and **exhort**
   + **carry** burden, **walk** beside
 + **call** alongside (active):
   + **invite** into community
-+ not forever **labelling** them as outsiders
++ not forever **label** as outsiders
 + **join** with the **family** of God
   + and the **work** of His kingdom
 + e.g., JJ @4yo tantrum wanting toy:
 + reprove: calm down and
   + **walk through** what just happened
   + wanted a **toy** but didn't get it
-  + got **angry**, cried, hit mom, threw toys
+  + got **angry**, hit mom, threw toys
   + "**fine!**", poor attitude
 + rebuke: what is **ok** / not-ok
   + what is **important** / not
@@ -291,12 +295,12 @@ reprove, rebuke, and **exhort**
   + ok: being **disappointed**
   + not ok: getting **angry** / bitter
   + JJ: angry doesn't **matter**
-  + attitude more **important** than toy / play
+  + attitude more **important** than toys
 + exhort: restore, **encourage**
   + **sit** with him until calm, understands, repents
   + tangible **steps** to rebuild rl
     + pray, sorry, care for mom, pick up thrown toys
-    + this doesn't **pay** for damage done
+    + doesn't **pay** for damage done
   + but provides a **path** home
 
 ---
@@ -307,15 +311,15 @@ with complete **patience** and **teaching**.
 
 >>>
 + **patience** (μακροθυμίᾳ): long/slow **inflammation**
-  + take a **long time** before getting **angry**
+  + **long time** before getting **angry**
   + cf easily **set off** by small obstacles
   + James 1:19 **slow to anger**
   + **fruit** of Spirit: pursue **HS**, not fruit
-+ **teaching** (διδαχῇ): **rl** of teacher-student
++ **teaching**: **rl** of teacher-student
   + not just "**sage** on stage"
   + train **whole** person
-  + with **principles** (Scripture, study)
-  + but also **practise** (example, apprentice)
+  + with **principles** (Scripture, study) +
+  + **practise** (example, apprentice)
 + this is the primary **charge** 
   + Paul the **mentor** describes
   + to Timothy the **apprentice**:
@@ -358,7 +362,7 @@ with complete **patience** and **teaching**.
 1. Calling [(v5)](# "ref")
 
 >>>
-+ invest **personally**: mentorship, example
++ invest **personally**: mentor, example
   + honest about our **failures**
   + point to God's **holiness** + grace
 + but don't **take** it personally
@@ -387,9 +391,9 @@ will not **endure sound teaching**,
   + if don't **hold on**, will fall
   + if **warned**, won't be **surprised**
 + in our **society**, we should **expect**:
-  + first, a battle of competing **principles**
+  + first, a war of **principles**
 + **sound teaching**: healthy, proper
-  + the way our lives+rl were **meant** to be
+  + how our lives+rl were **meant** to be
 + **endure** (ἀνέξονται): bear, put up with
   + can't **stand** it, too much
 + so what **voices** will they listen to?
@@ -407,8 +411,8 @@ teachers to suit their own **passions**,
 + **passions** (ἐπιθυμίας): flame, upswelling of desire
   + for **pleasure**, fun, thrill
   + for **pride**, admiration, power
-+ **accumulate** (ἐπισωρεύσουσιν): pile up
-  + **surround** w/wall of overwhelming majority
++ **accumulate**: pile up, surround
+  + w/wall of overwhelm **majority**
   + **loud** enough, **numerous** enough
   + to **drown out** healthy teaching
 + **itching** (κνηθόμενοι): tickle, scratch
@@ -428,20 +432,20 @@ and **wander off** into **myths**.
 [Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 
 >>>
-+ turn **away** (ἀποστρέψουσιν) from truth
-+ wander off (ἐκτραπήσονται): turn **out** / aside
-  + any other **direction** off the main **road**
++ turn **away** from truth
++ wander off: turn **out** / aside
+  + any other **dir** off main **road**
   + 1 **truth**, infinite **falsehoods**
 + **myth**: speech, tall tale:
   + fiction **pretending** to be truth
   + "movie inspired by true events"
 + e.g., The **Shack**:
   + **fiction**, but claims to **represent** what God would say
-  + made up based on **own** experiences
+  + made up based on **own** exp
   + rather than **Scripture**
 + **expect** our society to turn to these!
-  + **orientation**: once turned away from truth,
-  + **natural** path is to continue further away
+  + **orientation**: turn away fr truth,
+  + **natural** path: continue further
   + takes **deliberate** effort to turn **back**
 + How should we **respond**?
   + earlier in ch2:
@@ -503,7 +507,8 @@ endure **suffering**,
 + sober: opp. **drunk**
   + coping w/**hurt**/stress via
 + dissociative **numbing**
-  + ice cream, **video games** (Candy Crush)
+  + ice cream, **video games**
+    + (Candy Crush)
   + obsessive **work**, reading news
   + sleep, **avoidance**, checking out
 + this dulls our **judgment**
@@ -549,7 +554,7 @@ do the **work** of an **evangelist**, <br>
 >>>
 + **evangelist**: proclaim **good news**
   + this is **all** of us, not just **pastors**!
-+ Christ has **already** done work of salvation
++ Christ has **done** work of salvation
   + and everyone **will** face judgment
 + so what **work** is there for us to do?
   + **proclaim**: herald, ambassador
