@@ -445,26 +445,93 @@ patiently **enduring** evil, <br>
 ## outline
 
 >>>
-+ 
++ return to **Timothy**:
++ now you **know** there will be **opposition**
++ don't let that **paralyse** you
+  + or **frustrate** you
++ stay **focused** on your task:
 
 ---
 As for you, always be **sober**-minded, <br>
-endure **suffering**, <br>
-do the work of an **evangelist**, <br>
-fulfill your **ministry**.
+endure **suffering**,
 
-[2 Timothy 4:5 (ESV)](# "ref")
+[2 Timothy 4:5a (ESV)](# "ref")
 
 >>>
++ two **pairs** in v5:
+  + **mental** fortitude
+  + **mandate** of work
 + sober: opp. **drunk**
-  + dissociative **numbing**
-  + then dulls our **judgment**
-  + 2:22 flee youthful passions
-+ suffering: 3:12-13 persecutions 
+  + coping w/**hurt**/stress via
++ dissociative **numbing**
+  + ice cream, **video games** (Candy Crush)
+  + obsessive **work**, reading news
+  + sleep, **avoidance**, checking out
++ this dulls our **judgment**
+  + not **aware** when we're drunk
+  + 2:22 flee youthful **passions**
++ **suffering** (κακοπάθησον): 
+  + **evil** / malicious attacks
+  + **pathos** / deep anguish of soul
++ this is also what we should **expect**:
+  + earlier in ch3:
+
+---
+Indeed, all who desire to live a **godly** life <br>
+in Christ Jesus will be **persecuted**,
+
+[13](# "ref")
+while **evil** people and **impostors** will go on <br>
+from bad to **worse**, deceiving and being **deceived**.
+
+[2 Timothy 3:12-13 (ESV)](# "ref")
+
+>>>
++ if your **goal** in life is to be **happy**
+  + you will be **disappointed** + bitter
+  + when you realise the **cost** of
+  + living a **godly** life in Christ
++ have **mental** fortitude:
+  + not **dissociating** from problems
+    + but remaining **sober**
+  + prepared for **pathos** 
+    + deep **anguish** of the soul
++ also stay focused on our **mandate**:
+
+---
+do the **work** of an **evangelist**, <br>
+**fulfill** your **ministry**.
+
+[2 Timothy 4:5b (ESV)](# "ref")
+
+>>>
++ **evangelist**: proclaim **good news**
+  + this is **all** of us, not just **pastors**!
++ Christ has **already** done work of salvation
+  + and everyone **will** face judgment
++ so what **work** is there for us to do?
+  + **proclaim**: herald, ambassador
+  + **teach**: mentor, example, invite
++ **serve** (ministry): waiting tables
+  + voluntary action to **assist**
+  + **strengthen** the weak in faith
+  + **restore** those who have **stumbled**
++ God has already **called** us to this
+  + given us our **vocation**
+  + now let us **carry** it through
+  + to **full** measure
 
 ---
 <!-- .slide: data-background="white" -->
-# What is the work of an **evangelist**?
+# What is God's **calling** for us as **bearers** of good news?
+
+>>>
++ **mental** fortitude:
+  + not **drunk** / avoiding problems
+  + prepared for **suffering** from evil
++ **mandate** of our work:
+  + proclaim **gospel**
+  + fulfill being a **servant** in the kingdom of God
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
