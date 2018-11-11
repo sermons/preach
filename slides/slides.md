@@ -2,6 +2,12 @@
 # Preach the Word
 ## 2 Timothy 4:1-5
 
+>>>
++ monthly series on traits of a **pastor**
++ but not **only** for pastors
++ **hard** to preach
+  + strikes **home** for me
+
 ---
 <!-- .slide: data-background="white" -->
 # What is our **vocation** as young Christian **leaders**?
@@ -48,7 +54,8 @@ and wander off into myths.
 ---
 [5](# "ref")
 As for you, always be sober-minded, <br>
-endure suffering, do the work of an evangelist, <br>
+endure suffering, <br>
+do the work of an evangelist, <br>
 fulfill your ministry.
 
 [2 Timothy 4:5 (ESV) (p.3/3)](# "ref")
@@ -71,6 +78,7 @@ fulfill your ministry.
   + "**but you**", persevere in proven character
 + ch4a: **climax** of letter, 
   + **strongest** distillation of this structure
+  + focus mostly on **action** (v1-2)
 + Paul uses a strong + personal **imperative** in v1:
 
 ---
@@ -113,7 +121,7 @@ with complete **patience** and **teaching**.
 + Primary **imperative** is "preach"
   + **what** to preach
   + **when** to preach
-  + **steps** how to preach
+  + **actions** how to preach
   + **attitude** how to preach
 + Paul **charges** Tim:
   + solemn **declaration**
@@ -147,9 +155,34 @@ Preach **the Word**
 + ambassador carries **letter**
   + from king to foreign country
 + "but I don't **know** what to say!"
-  + Bible too **hard** to understand?
-  + only for **seminary** grads?
-+ 1:13 follow pattern
+  + Bible too **hard** to understand
++ only for **seminary** grads?
+  + seminary only **grad school**
+  + sermon, SS, BSF not **enough**
++ **lifestyle** habit of regular study
++ not in **isolation**, but
+  + learned by **example**, mentorship
+  + **Paul** to Timothy:
+
+---
+Follow the **pattern** of the **sound words** <br>
+that you have heard from me, <br>
+in the **faith** and **love** that are in Christ Jesus.
+
+[2 Timothy 1:3 (ESV)](# "ref")
+
+>>>
++ **pattern**: type, tracing
+  + **sound**: healthy, cf 4:3
++ follow **example** of healthy, grounded doctrine
+  + not just **content** of Scripture
+  + but **attitude** towards Scripture
++ take it **seriously**
+  + not as **fable** / allegory
+  + or **art** whose meaning is **constructed** by viewer
++ **message** from the King to this foreign land
+  + we are the **ambassadors** carrying the message
++ **when** do we deliver the message?
 
 ---
 be **ready** in season and out of season
@@ -157,11 +190,93 @@ be **ready** in season and out of season
 [2 Timothy 4:2b (ESV)](# "ref")
 
 >>>
++ at **good** / opportune time, and
++ when there is **no** time
+  + not **convenient**
++ ready: **stand** upon, be present
+  + "half the battle is **showing up**"
++ we like to **schedule** when HS can move
+  + special **Christmas** outreach
+  + evangelistic meetings, **altar call**
++ standing **ready** means being **present**
+  + wherever God **wants** us to be
+  + anywhere, anytime, even **grocery**
++ e.g., praying at **Save-On**
+  + not for **her** sake, but **mine**
+  + be **prepared**: to pray, to **speak**
++ **how** do we proclaim God's Word?
 
 ---
 **reprove**, rebuke, and exhort
 
 [2 Timothy 4:2c (ESV)](# "ref")
+
+>>>
++ 3 **imperatives** that expand on 
+  + the **actions** of how to preach
++ **reprove** (ἔλεγξον): expose, convict, demonstrate
+  + **lay out** evidence clearly
+  + judge: finding of **fact**, what **happened**
++ who **God** is: his **holiness**
+  + who **we** are: made to be **holy**
+  + but **fallen** in rebellion to His authority
+  + what **Christ** has done: **grace**
++ **holiness** &rArr; **sin** &rArr; **grace**
+
+---
+reprove, **rebuke**, and exhort
+
+[2 Timothy 4:2c (ESV)](# "ref")
+
+>>>
++ (ἐπιτίμησον): root is **honour**
+  + to **esteem**, assign **value**
++ e.g., teacher handing back **exams**:
+  + "great job! great job! **meh...** great job!"
++ **we** do not **judge** anyone
+  + God has already **revealed** 
+  + what He **requires** of man
++ **rebuke** means applying God's standard
+  + to **our** actions + priorities
++ give **warning** and
+  + direct **back** to right path
+  + to **encourage**:
+
+---
+reprove, rebuke, and **exhort**
+
+[2 Timothy 4:2c (ESV)](# "ref")
+
+>>>
++ (παρακάλεσον): **encourage**
+  + advocate, defend, implore
++ be **called** alongside (passive):
+  + by those who are about to **fall**
+  + **carry** burden, **walk** beside
++ **call** alongside (active):
+  + **invite** into community
++ not forever **labelling** them as outsiders
++ **join** with the **family** of God
+  + and the **work** of His kingdom
++ e.g., JJ @4yo tantrum wanting toy:
++ reprove: calm down and
+  + **walk through** what just happened
+  + wanted a **toy** but didn't get it
+  + got **angry**, cried, hit mom, threw toys
+  + "**fine!**", poor attitude
++ rebuke: what is **ok** / not-ok
+  + what is **important** / not
+  + ok: **wanting** a toy, saying so gently
+  + ok: being **disappointed**
+  + not ok: getting **angry** / bitter
+  + JJ: angry doesn't **matter**
+  + attitude more **important** than toy / play
++ exhort: restore, **encourage**
+  + **sit** with him until calm, understands, repents
+  + tangible **steps** to rebuild rl
+    + pray, sorry, care for mom, pick up thrown toys
+    + this doesn't **pay** for damage done
+  + but provides a **path** home
 
 ---
 with complete **patience** and **teaching**. 
@@ -169,7 +284,39 @@ with complete **patience** and **teaching**.
 [2 Timothy 4:2d (ESV)](# "ref")
 
 >>>
++ **patience** (μακροθυμίᾳ): long/slow **inflammation**
+  + take a **long time** before getting **angry**
+  + cf easily **set off** by small obstacles
+  + James 1:19 **slow to anger**
+  + **fruit** of Spirit: pursue **HS**, not fruit
++ **teaching** (διδαχῇ): **rl** of teacher-student
+  + not just "**sage** on stage"
+  + train **whole** person
+  + with **principles** (Scripture, study)
+  + but also **practise** (example, apprentice)
++ this is the primary **charge** 
+  + Paul the **mentor** describes
+  + to Timothy the **apprentice**:
 
+---
+**Preach** the **word**; <br>
+be **ready** in season and out of season; <br>
+**reprove**, **rebuke**, and **exhort**, <br>
+with complete **patience** and **teaching**. 
+
+[2 Timothy 4:2 (ESV)](# "ref")
+
+>>>
++ as a **herald** in a foreign country
++ deliver the **message** from our King
++ **stand** present, whether or not
+  + we feel the time is **opportune**
++ **lay out** the facts,
+  + show what is **ok**/not-ok, important/not
+  + **encourage** + invite 
+  + into **restored** rl w/God
++ be **slow** to anger
+  + train the **whole** person
 
 ---
 <!-- .slide: data-background="white" -->
@@ -206,7 +353,8 @@ and wander off into **myths**.
 
 ---
 As for you, always be **sober**-minded, <br>
-endure **suffering**, do the work of an **evangelist**, <br>
+endure **suffering**, <br>
+do the work of an **evangelist**, <br>
 fulfill your **ministry**.
 
 [2 Timothy 4:5 (ESV)](# "ref")
