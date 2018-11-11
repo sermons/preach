@@ -344,7 +344,7 @@ with complete **patience** and **teaching**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I **proclaim** the message from my **King**?
+# Will I **proclaim** <br> the message <br> from my **King**?
 
 >>>
 + live as **ambassadors** in foreign land
@@ -375,7 +375,7 @@ will not **endure sound teaching**,
 
 [2 Timothy 4:3a (ESV)](# "ref")
 
->>
+>>>
 + v3-4 pair of **contrasts**:
   + **teaching**
   + **turning**
@@ -448,9 +448,11 @@ and **wander off** into **myths**.
 
 ---
 <!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
-The Lord's servant must not be **quarrelsome** <br>
+The Lord's servant must not be **quarrelsome**
+
 but **kind** to everyone, able to **teach**, <br>
-patiently **enduring** evil, <br>
+patiently **enduring** evil, 
+
 [25](# "ref")
 **correcting** his opponents with **gentleness**. 
 
@@ -466,7 +468,7 @@ patiently **enduring** evil, <br>
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **respond** when others **turn away** from the truth?
+# How do I **respond** to those who <br> **turn away** from the truth?
 
 >>>
 + majority will reject **healthy** teaching
@@ -519,8 +521,9 @@ Indeed, all who desire to live a **godly** life <br>
 in Christ Jesus will be **persecuted**,
 
 [13](# "ref")
-while **evil** people and **impostors** will go on <br>
-from bad to **worse**, deceiving and being **deceived**.
+while **evil** people and **impostors** <br>
+will go on from bad to **worse**, <br>
+**deceiving** and being deceived.
 
 [2 Timothy 3:12-13 (ESV)](# "ref")
 
@@ -562,7 +565,7 @@ do the **work** of an **evangelist**, <br>
 
 ---
 <!-- .slide: data-background="white" -->
-# What is God's **calling** for us as **bearers** of good news?
+# What is <br> God's **calling** <br> for us as bearers <br> of **good news**?
 
 >>>
 + **mental** fortitude:
