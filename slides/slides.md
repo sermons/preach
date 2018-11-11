@@ -335,8 +335,9 @@ with complete **patience** and **teaching**.
 [Aaron Burden](https://unsplash.com/photos/1EbsMYrAu-s "caption")
 
 >>>
++ what / when / actions / attitude:
 + as a **herald** in a foreign country
-+ deliver the **message** from our King
+  + deliver **msg** from our King
 + **stand** ready, whether or not
   + we feel the time is **opportune**
 + **lay out** the facts,
@@ -542,6 +543,10 @@ will go on from bad to **worse**, <br>
     + but remaining **sober**
   + prepared for **pathos** 
     + deep **anguish** of the soul
++ e.g. young lady dating **non-Chr**:
+  + **miserable** in Christian home
+  + **happy** w/bf
+  + unwilling to **choose** God over bf
 + also stay focused on our **mandate**:
 
 ---
@@ -554,8 +559,12 @@ do the **work** of an **evangelist**, <br>
 >>>
 + **evangelist**: proclaim **good news**
   + this is **all** of us, not just **pastors**!
-+ Christ has **done** work of salvation
-  + and everyone **will** face judgment
+  + **angel**: messenger, mailman
++ job is to **deliver** message clearly
+  + not to **persuade** others to believe
++ work of **atonement** done on cross
++ work of **changing** hearts is **HS's** job
+  + not ours
 + so what **work** is there for us to do?
   + **proclaim**: herald, ambassador
   + **teach**: mentor, example, invite
