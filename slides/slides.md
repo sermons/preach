@@ -111,14 +111,65 @@ with complete **patience** and **teaching**.
 
 >>>
 + Primary **imperative** is "preach"
-  + augmented by **readiness**
-  + 
-+ **preach**: proclaim, herald
+  + **what** to preach
+  + **when** to preach
+  + **steps** how to preach
+  + **attitude** how to preach
++ Paul **charges** Tim:
+  + solemn **declaration**
++ this is **who you are**
+  + it is **objective** truth
+  + I see it **personally**, too
++ you were **made** to do this:
+
+---
+**Preach** the word
+
+[2 Timothy 4:2a (ESV)](# "ref")
+
+>>>
++ preach: proclaim, **herald**
   + **ambassador** in **foreign** land
-  + speaks only what **king** sends
++ speaks only what **king** sends
   + but with full **authority** of king
-+ 
++ **citizenship** not of this world
+  + but earnestly **care** for the land we live in
++ communicate God's **judgment**
+  + and Christ's **mercy**
++ **what** do we preach?
+
+---
+Preach **the Word**
+
+[2 Timothy 4:2a (ESV)](# "ref")
+
+>>>
++ ambassador carries **letter**
+  + from king to foreign country
++ "but I don't **know** what to say!"
+  + Bible too **hard** to understand?
+  + only for **seminary** grads?
 + 1:13 follow pattern
+
+---
+be **ready** in season and out of season
+
+[2 Timothy 4:2b (ESV)](# "ref")
+
+>>>
+
+---
+**reprove**, rebuke, and exhort
+
+[2 Timothy 4:2c (ESV)](# "ref")
+
+---
+with complete **patience** and **teaching**. 
+
+[2 Timothy 4:2d (ESV)](# "ref")
+
+>>>
+
 
 ---
 <!-- .slide: data-background="white" -->
