@@ -63,9 +63,9 @@ fulfill your ministry.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Preach the Word [(2Tim4)](# "ref")
-1. Action [(v1-2)](# "ref")
-1. Opposition [(v3-4)](# "ref")
-1. Character [(v5)](# "ref")
+1. **Practise** [(v1-2)](# "ref")
+1. **Opposition** [(v3-4)](# "ref")
+1. **Character** [(v5)](# "ref")
 
 >>>
 + **Timothy**: young pastor in Ephesus
@@ -345,34 +345,107 @@ with complete **patience** and **teaching**.
 
 ---
 For the time is coming when people <br>
-will not endure **sound** teaching,
+will not **endure sound teaching**,
 
-but having **itching** ears <br>
-they will **accumulate** for themselves <br>
-**teachers** to suit their own **passions**, 
-
-[2 Timothy 4:3 (ESV)](# "ref")
+[2 Timothy 4:3a (ESV)](# "ref")
 
 >>
 + v3-4 pair of **contrasts**:
   + **teaching**
   + **turning**
++ Paul **warns** Timothy
+  + so he won't be **alarmed**
+  + or **faint**, or **frustrated**
+  + when he encounters them
++ e.g., 1st time **SkyTrain**:
+  + if don't **hold on**, will fall
+  + if **warned**, won't be **surprised**
++ in our **society**, we should **expect**:
+  + first, a battle of competing **principles**
++ **sound teaching**: healthy, proper
+  + the way our lives+rl were **meant** to be
++ **endure** (ἀνέξονται): bear, put up with
+  + can't **stand** it, too much
++ so what **voices** will they listen to?
+
+---
+but having **itching** ears <br>
+they will **accumulate** for themselves <br>
+teachers to suit their own **passions**, 
+
+[2 Timothy 4:3b (ESV)](# "ref")
+
+>>>
++ **passions** (ἐπιθυμίας): flame, upswelling of desire
+  + for **pleasure**, fun, thrill
+  + for **pride**, admiration, power
++ **accumulate** (ἐπισωρεύσουσιν): pile up
+  + **surround** w/wall of overwhelming majority
+  + **loud** enough, **numerous** enough
+  + to **drown out** healthy teaching
++ **itching** (κνηθόμενοι): tickle, scratch
+  + not to pursue **truth**, but
+  + to **satisfy** own need for validation
++ "I'm **happy** with that explanation"
+  + "This author really **appeals** to me"
++ rejecting God's **teaching** leads to
+  + a willful change of **direction**:
 
 ---
 and will **turn away** from listening to the truth <br>
-and wander off into **myths**. 
+and **wander off** into **myths**. 
 
 [2 Timothy 4:4 (ESV)](# "ref")
 
 >>>
-+ 2:24-26 correct opponents w/gentleness
++ turn **away** (ἀποστρέψουσιν) from truth
++ wander off (ἐκτραπήσονται): turn **out** / aside
+  + any other **direction** off the main **road**
+  + 1 **truth**, infinite **falsehoods**
++ **myth**: speech, tall tale:
+  + fiction **pretending** to be truth
+  + "movie inspired by true events"
++ e.g., The **Shack**:
+  + **fiction**, but claims to **represent** what God would say
+  + made up based on **own** experiences
+  + rather than **Scripture**
++ **expect** our society to turn to these!
+  + **orientation**: once turned away from truth,
+  + **natural** path is to continue further away
+  + takes **deliberate** effort to turn **back**
++ How should we **respond**?
+  + earlier in ch2:
+
+---
+The Lord's servant must not be **quarrelsome** <br>
+but **kind** to everyone, able to **teach**, <br>
+patiently **enduring** evil, <br>
+[25](# "ref")
+**correcting** his opponents with **gentleness**. 
+
+[2 Timothy 2:24-25 (ESV)](# "ref")
+
+>>>
++ God may perhaps grant them **repentance**
+  + turn **back** toward God's truth
++ but more **time** will not help:
+  + w/o a change of **direction**,
+  + they will only wander **farther** away
 
 ---
 <!-- .slide: data-background="white" -->
 # How do I **respond** when others **turn away** from the truth?
 
+>>>
++ majority will reject **healthy** teaching
+  + pile up teachers that **appeal** to selfish desires
++ **turn** to fiction and away from truth
+
 ---
 ## outline
+
+>>>
++ 
 
 ---
 As for you, always be **sober**-minded, <br>
