@@ -543,10 +543,6 @@ will go on from bad to **worse**, <br>
     + but remaining **sober**
   + prepared for **pathos** 
     + deep **anguish** of the soul
-+ e.g. young lady dating **non-Chr**:
-  + **miserable** in Christian home
-  + **happy** w/bf
-  + unwilling to **choose** God over bf
 + also stay focused on our **mandate**:
 
 ---
@@ -572,6 +568,12 @@ do the **work** of an **evangelist**, <br>
   + voluntary action to **assist**
   + **strengthen** the weak in faith
   + **restore** those who have **stumbled**
++ not just what we **ought** to do
+  + this is **who** we are
++ e.g., resp to **care** for JJ
+  + also resp to **care** for others
+  + by showing God's **love**
+  + proclaim God's **word**
 + God has already **called** us to this
   + given us our **vocation**
   + now let us **carry** it through
