@@ -82,14 +82,17 @@ with complete **patience** and **teaching**.
 For the time is coming when people <br>
 will not endure **sound** teaching,
 
-but having **itching** ears they will **accumulate** for <br>
-themselves teachers to suit their own **passions**, 
+but having **itching** ears <br>
+they will **accumulate** for themselves <br>
+**teachers** to suit their own **passions**, 
 
-[4](# "ref")
+[2 Timothy 4:3 (ESV)](# "ref")
+
+---
 and will **turn away** from listening to the truth <br>
 and wander off into **myths**. 
 
-[2 Timothy 4:3-4 (ESV)](# "ref")
+[2 Timothy 4:4 (ESV)](# "ref")
 
 >>>
 + 2:24-26 correct opponents w/gentleness
