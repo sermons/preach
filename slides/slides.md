@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is our **vocation**?
+# What is our **vocation** as young Christian **leaders**?
 
 [###](#/outline "secret")
 
@@ -13,8 +13,8 @@
 + usu. think of **passion**, dream, skill
   + **self**-selected
 + but our **Creator** calls us
-+ already given us fruitful **work** to do
-+ for us to do **together**
+  + given us fruitful **work** to do
+  + do **together** as body of Christ
 
 ---
 [1](# "ref")
@@ -59,6 +59,43 @@ fulfill your ministry.
 1. Action [(v1-2)](# "ref")
 1. Opposition [(v3-4)](# "ref")
 1. Character [(v5)](# "ref")
+
+>>>
++ **Timothy**: young pastor in Ephesus
+  + Paul: **mentor** ("true **son** in the faith")
++ 1 Tim: instr regarding **church**
++ 2 Tim: more **personal**, about Timothy **himself**
++ repeated **structure**:
+  + **tasks** / charge for Timothy
+  + **warning** about those who would oppose gospel
+  + "**but you**", persevere in proven character
++ ch4a: **climax** of letter, 
+  + **strongest** distillation of this structure
++ Paul uses a strong + personal **imperative** in v1:
+
+---
+I **charge** you <br>
+in the presence of God and of **Christ Jesus**, <br>
+who is to **judge** the living and the dead
+
+[2 Timothy 4:1 (ESV)](# "ref")
+
+>>>
++ intensified form of root, **testify**
+  + proclaim / attest to **truth**
+  + learned through **experience**
+  + aspect of **personal** stakes
++ not "I **tell** you to do this", but
+  + "This is what you **need** to do"
+  + the **truth** of who you are
++ command in today's passage is not only
+  + for "**super**"-Christians
+  + pastors, those "called" to ministry
++ inasmuch as none of us are **exempt**
+  + from facing **judgment**
++ in light of **reality** of Christ's imminent **return**
++ the challenge given is not **optional**
+  + a **hobby**, when I have **time** to
 
 ---
 **Preach** the word; <br>
