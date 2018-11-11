@@ -217,6 +217,9 @@ be **ready** in season and out of season
 + **reprove** (ἔλεγξον): expose, convict, demonstrate
   + **lay out** evidence clearly
   + judge: finding of **fact**, what **happened**
++ not that **we** are the judge! God is
+  + not that we are **perfect**:
+  + illustrate being **forgiven**
 + who **God** is: his **holiness**
   + who **we** are: made to be **holy**
   + but **fallen** in rebellion to His authority
@@ -309,7 +312,7 @@ with complete **patience** and **teaching**.
 >>>
 + as a **herald** in a foreign country
 + deliver the **message** from our King
-+ **stand** present, whether or not
++ **stand** ready, whether or not
   + we feel the time is **opportune**
 + **lay out** the facts,
   + show what is **ok**/not-ok, important/not
@@ -320,10 +323,25 @@ with complete **patience** and **teaching**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **know** God's Word well enough to **proclaim** it?
+# Will I **proclaim** the message from my **King**?
+
+>>>
++ live as **ambassadors** in foreign land
++ not **optional**: imminent **return**
 
 ---
 ## outline
+
+>>>
++ invest **personally**: mentorship, example
+  + honest about our **failures**
+  + point to God's **holiness** + grace
++ but don't **take** it personally
+  + when you meet **opposition**
++ our job is to **proclaim**
+  + not to **change** / fix
+  + not to **condemn** or
+  + judge as **irredeemable**
 
 ---
 For the time is coming when people <br>
@@ -334,6 +352,11 @@ they will **accumulate** for themselves <br>
 **teachers** to suit their own **passions**, 
 
 [2 Timothy 4:3 (ESV)](# "ref")
+
+>>
++ v3-4 pair of **contrasts**:
+  + **teaching**
+  + **turning**
 
 ---
 and will **turn away** from listening to the truth <br>
@@ -360,7 +383,10 @@ fulfill your **ministry**.
 [2 Timothy 4:5 (ESV)](# "ref")
 
 >>>
-+ sober: 2:22 flee youthful passions
++ sober: opp. **drunk**
+  + dissociative **numbing**
+  + then dulls our **judgment**
+  + 2:22 flee youthful passions
 + suffering: 3:12-13 persecutions 
 
 ---
