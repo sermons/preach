@@ -11,7 +11,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is our **vocation** as young Christian **leaders**?
+# What is your **vocation**?
 
 [###](#/outline "secret")
 
@@ -20,8 +20,8 @@
 + usu. think of **passion**, dream, skill
   + **self**-selected
 + but our **Creator** calls us
-  + given us fruitful **work** to do
-  + do **together** as body of Christ
+  + given us fruitful **labour**
+  + **together** as body of Christ
 
 ---
 [1](# "ref")
@@ -88,8 +88,8 @@ fulfill your ministry.
 ---
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 I **charge** you <br>
-in the presence of God and of **Christ Jesus**, <br>
-who is to **judge** the living and the dead
+in the presence of God and of *Christ Jesus*, <br>
+who is to *judge* the living and the dead
 
 [2 Timothy 4:1 (ESV)](# "ref")
 
@@ -97,12 +97,22 @@ who is to **judge** the living and the dead
 + intensified form of root, **testify**
   + proclaim / attest to **truth**
   + learned through **experience**
-  + aspect of **personal** stakes
+  + w/aspect of **personal** stakes
 + not "I **tell** you to do this", but
-  + "This is what you **need** to do"
-  + the **truth** of who you are
-+ this command is not only for
-  + "**super**"-Christians
+  + this is **who** you are: obj **truth**
+  + I see it **personally**, too
++ by what **authority** is this command given? 
+
+---
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
+I *charge* you <br>
+in the presence of God and of **Christ Jesus**, <br>
+who is to **judge** the living and the dead
+
+[2 Timothy 4:1 (ESV)](# "ref")
+
+>>>
++ so not only for "**super**"-Christians
   + pastors, those "called" to ministry
 + inasmuch as none of us are **exempt**
   + from facing **judgment**
@@ -112,7 +122,7 @@ who is to **judge** the living and the dead
   + Christ **will** return
   + He **will** judge every person
   + each one **must** repent, turn to Him
-+ so we **must** proclaim this!
++ we **must** proclaim this!
 
 ---
 <!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
@@ -132,10 +142,8 @@ with complete **patience** and **teaching**.
   + **attitude** how to preach
 + Paul **charges** Tim:
   + solemn **declaration**
-+ this is **who you are**
-  + it is **objective** truth
-  + I see it **personally**, too
-+ you were **made** to do this:
++ you were **made** to do this
++ what does it **mean** to preach? 
 
 ---
 <!-- .slide: <%= bg("USAF_taps-170515-F-IT851-172.jpg") %> -->
@@ -440,7 +448,7 @@ and **wander off** into **myths**.
 + **myth**: speech, tall tale:
   + fiction **pretending** to be truth
   + "movie inspired by true events"
-+ e.g., The **Shack**:
++ e.g., The **Shack** (William Young):
   + **fiction**, but claims to **represent** what God would say
   + made up based on **own** exp
   + rather than **Scripture**
@@ -518,7 +526,7 @@ endure **suffering**,
 + **suffering** (κακοπάθησον): 
   + **evil** / malicious attacks
   + **pathos** / deep anguish of soul
-+ this is also what we should **expect**:
++ this is also what we should **expect**
   + earlier in ch3:
 
 ---
