@@ -4,19 +4,21 @@
 [Aaron Burden](https://unsplash.com/photos/c333d6YEhi0 "caption")
 
 >>>
-+ monthly series on traits of a **pastor**
-+ but not **only** for pastors
-+ **hard** to preach
-  + strikes **home** for me
++ **committee** / group project:
+  + waste **time**, effort
+  + not getting anything **done**
++ &rArr; get back to **mandate**:
+  + school proj: **assignment**
+  + committee: **terms of reference**
 
 ---
 <!-- .slide: data-background="white" -->
-# What is your **vocation**?
+# What is our **mandate**?
 
 [###](#/outline "secret")
 
 >>>
-+ voice: **calling**
++ for individual: purpose, **calling**
 + usu. think of **passion**, dream, skill
   + **self**-selected
 + but our **Creator** calls us
