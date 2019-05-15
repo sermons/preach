@@ -66,9 +66,13 @@ fulfill your ministry.
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> id="outline" class="outline" -->
 ## Preach the Word [(2Tim4)](# "ref")
-1. **Proclamation** [(v1-2)](# "ref")
-1. **Opposition** [(v3-4)](# "ref")
-1. **Calling** [(v5)](# "ref")
+1. **Communicate** the Message [(v1-2)](# "ref")
+1. **Correct** Opponents with Gentleness [(v3-4)](# "ref")
+1. Stay **Centred** on God's Work [(v5)](# "ref")
+<!--
+1. **Proclaim** the Message [(v1-2)](# "ref")
+1. Be **Patient** in the Face of Opposition [(v3-4)](# "ref")
+-->
 
 >>>
 + Paul: **mentor** to Timothy
@@ -368,9 +372,9 @@ with complete **patience** and **teaching**.
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> class="outline" -->
 ## Preach the Word [(2Tim4)](# "ref")
-1. Proclamation [(v1-2)](# "ref")
-1. **Opposition** [(v3-4)](# "ref")
-1. Calling [(v5)](# "ref")
+1. Communicate the Message [(v1-2)](# "ref")
+1. **Correct Opponents with Gentleness** [(v3-4)](# "ref")
+1. Stay Centred on God's Work [(v5)](# "ref")
 
 >>>
 + invest **personally**: mentor, example
@@ -493,9 +497,9 @@ patiently **enduring** evil,
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> class="outline" -->
 ## Preach the Word [(2Tim4)](# "ref")
-1. Proclamation [(v1-2)](# "ref")
-1. Opposition [(v3-4)](# "ref")
-1. **Calling** [(v5)](# "ref")
+1. Communicate the Message [(v1-2)](# "ref")
+1. Correct Opponents with Gentleness [(v3-4)](# "ref")
+1. **Stay Centred on God's Work** [(v5)](# "ref")
 
 >>>
 + return to **Timothy**:
