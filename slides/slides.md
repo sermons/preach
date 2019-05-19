@@ -168,9 +168,9 @@ with complete **patience** and **teaching**.
   + but with full **authority** of king
 + **citizenship** not of this world
   + but earnestly **care** for it
-+ communicate God's **judgment**
-  + and Christ's **mercy**
-+ **what** do we preach?
++ our job is not to **convert** people
+  + but to **proclaim** God's message
++ **what** content do we preach?
 
 ---
 <!-- .slide: <%= bg("unsplash-y02jEX_B0O0-fountain_pen.jpg") %> -->
@@ -190,7 +190,7 @@ Preach **the Word**
 + **lifestyle** habit of regular study
 + not in **isolation**, but
   + learned by **example**, mentorship
-  + **Paul** to Timothy:
+  + **Paul** to Tim in ch1:
 
 ---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
