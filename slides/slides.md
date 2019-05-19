@@ -93,9 +93,10 @@ fulfill your ministry.
 
 ---
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
-I **charge** you <br>
-in the presence of God and of *Christ Jesus*, <br>
-who is to *judge* the living and the dead
+I **charge** you
+
+in the presence of God and of Christ Jesus, <br>
+who is to judge the living and the dead
 
 [2 Timothy 4:1 (ESV)](# "ref")
 
@@ -111,13 +112,15 @@ who is to *judge* the living and the dead
 
 ---
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
-I *charge* you <br>
+I charge you
+
 in the presence of God and of **Christ Jesus**, <br>
 who is to **judge** the living and the dead
 
 [2 Timothy 4:1 (ESV)](# "ref")
 
 >>>
++ **judgment**, appearing, kingdom
 + so not only for "**super**"-Christians
   + pastors, those "called" to ministry
 + inasmuch as none of us are **exempt**
