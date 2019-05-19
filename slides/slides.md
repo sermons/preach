@@ -69,10 +69,6 @@ fulfill your ministry.
 1. **Communicate** the Message [(v1-2)](# "ref")
 1. **Correct** Opponents with Gentleness [(v3-4)](# "ref")
 1. Stay **Centred** on God's Work [(v5)](# "ref")
-<!--
-1. **Proclaim** the Message [(v1-2)](# "ref")
-1. Be **Patient** in the Face of Opposition [(v3-4)](# "ref")
--->
 
 >>>
 + Paul: **mentor** to Timothy
