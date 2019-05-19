@@ -38,7 +38,7 @@ be ready in season and out of season; <br>
 reprove, rebuke, and exhort, <br>
 with complete patience and teaching. 
 
-[2 Timothy 4:1-2 (ESV) (p.1/3)](# "ref")
+[2 Timothy 4:1-5 (ESV) (p.1/3)](# "ref")
 
 ---
 [3](# "ref")
@@ -52,7 +52,7 @@ themselves teachers to suit their own passions,
 and will turn away from listening to the truth <br>
 and wander off into myths. 
 
-[2 Timothy 4:3-4 (ESV) (p.2/3)](# "ref")
+[2 Timothy 4:1-5 (ESV) (p.2/3)](# "ref")
 
 ---
 [5](# "ref")
@@ -61,7 +61,7 @@ endure suffering, <br>
 do the work of an evangelist, <br>
 fulfill your ministry.
 
-[2 Timothy 4:5 (ESV) (p.3/3)](# "ref")
+[2 Timothy 4:1-5 (ESV) (p.3/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> id="outline" class="outline" -->
