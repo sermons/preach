@@ -26,7 +26,7 @@
         "venue": "Fujian Evangelical Church",
         "city": "Richmond",
         "date": "2019-11-10",
-        "duration": 0
+        "duration": [62, 66]
       },
       {
         "venue": "Lord's Love Church",
