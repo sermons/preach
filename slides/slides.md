@@ -13,7 +13,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is our **mandate**?
+# What is our **mandate** as men+women of God?
 
 [###](#/outline "secret")
 
