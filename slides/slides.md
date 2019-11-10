@@ -594,7 +594,7 @@ do the **work** of an **evangelist**, <br>
 
 ---
 <!-- .slide: data-background="white" -->
-# What is <br> God's **calling** <br> for us as bearers <br> of **good news**?
+# Have I become mentally **drunken** and neglected my **ministry**?
 
 >>>
 + **mental** fortitude:
