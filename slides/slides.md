@@ -13,7 +13,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is our **mandate** as men+women of God?
+# What is our **mandate** as men+women <br> of God?
 
 [###](#/outline "secret")
 
@@ -594,7 +594,7 @@ do the **work** of an **evangelist**, <br>
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I become mentally **drunken** and neglected my **ministry**?
+# Have I become mentally **drunken** and neglected <br> my **ministry**?
 
 >>>
 + **mental** fortitude:
