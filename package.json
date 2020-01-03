@@ -3,10 +3,8 @@
   "repository": "sermons/preach",
   "description": "2Tim4:1-5 Preach the Word",
   "keywords": [
-    "slides",
     "sermon",
-    "2timothy",
-    "ppt"
+    "2timothy"
   ],
   "version": "1.7.4",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
