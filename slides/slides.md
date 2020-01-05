@@ -13,7 +13,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is our **mandate** as people <br> of God?
+# What is our **mandate** as <br> people of God?
 
 >>>
 + for individual: purpose, **calling**
