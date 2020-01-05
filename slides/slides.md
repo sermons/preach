@@ -65,7 +65,7 @@ fulfill your ministry.
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> id="outline" class="outline" -->
 ## Preach the Word [(2Tim4)](# "ref")
 1. **Communicate** the Message [(v1-2)](# "ref")
-1. **Correct** Opponents with Gentleness [(v3-4)](# "ref")
+1. **Correct** Opponents <br> with Gentleness [(v3-4)](# "ref")
 1. Stay **Centred** on God's Work [(v5)](# "ref")
 
 >>>
@@ -370,7 +370,7 @@ with complete **patience** and **teaching**.
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> class="outline" -->
 ## Preach the Word [(2Tim4)](# "ref")
 1. Communicate the Message [(v1-2)](# "ref")
-1. **Correct Opponents with Gentleness** [(v3-4)](# "ref")
+1. **Correct Opponents** <br> **with Gentleness** [(v3-4)](# "ref")
 1. Stay Centred on God's Work [(v5)](# "ref")
 
 >>>
@@ -495,7 +495,7 @@ patiently **enduring** evil,
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> class="outline" -->
 ## Preach the Word [(2Tim4)](# "ref")
 1. Communicate the Message [(v1-2)](# "ref")
-1. Correct Opponents with Gentleness [(v3-4)](# "ref")
+1. Correct Opponents <br> with Gentleness [(v3-4)](# "ref")
 1. **Stay Centred on God's Work** [(v5)](# "ref")
 
 >>>
