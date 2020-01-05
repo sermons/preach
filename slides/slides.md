@@ -70,15 +70,14 @@ fulfill your ministry.
 
 >>>
 + Paul: **mentor** to Timothy
-  + young **pastor** in Ephesus
   + "true **son** in the faith"
-+ 1 Tim: instr regarding **church**
++ 1 Tim: instr regarding **church** (Ephesus)
 + 2 Tim: more **personal**
   + about Timothy **himself**
 + repeated **structure**:
   + **tasks** / charge for Timothy
   + **warning**: those who oppose gospel
-  + "**but you**", persevere in mandate
+  + **focus**: "but you", persevere in mandate
 + ch4a: **climax** of letter, 
   + **strongest** distillation of struct
   + focus mostly on **action** (v1-2)
@@ -183,6 +182,7 @@ Preach **the Word**
   + seminary only **grad school**
   + sermon, SS, BSF not **enough**
 + **lifestyle** habit of regular study
+  + **daily** personal devotions
 + not in **isolation**, but
   + learned by **example**, mentorship
   + **Paul** to Tim in ch1:
@@ -295,38 +295,6 @@ reprove, rebuke, and **exhort**
 + not forever **label** as outsiders
 + **join** with the **family** of God
   + and the **work** of His kingdom
-
----
-<!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
-**Preach** the word; <br>
-be **ready** in season and out of season; <br>
-**reprove**, **rebuke**, and **exhort**
-
-[2 Timothy 4:2a-c (ESV)](# "ref")
-[&copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
-
->>>
-+ e.g., JJ @4yo tantrum wanting toy:
-+ reprove: calm down and
-  + **walk through** what just happened
-  + wanted a **toy** but didn't get it
-  + got **angry**, hit mom, threw toys
-  + "**fine!**", poor attitude
-+ rebuke: what is **ok** / not-ok
-  + what is **important** / not
-  + ok: **wanting** a toy, saying so gently
-  + ok: being **disappointed**
-  + not ok: getting **angry** / bitter
-  + JJ: angry doesn't **matter**
-  + attitude more **important** than toys
-+ exhort: restore, **encourage**
-  + **sit** with him until calm, understands, repents
-  + tangible **steps** to rebuild rl
-    + pray, sorry, care for mom, pick up thrown toys
-    + doesn't **pay** for damage done
-  + but provides a **path** home
-+ (1) what, (2) when, (3) actions,
-  + lastly, (4) **attitude**:
 
 ---
 <!-- .slide: <%= bg("father_son_walk.jpg") %> -->
