@@ -86,13 +86,14 @@ fulfill your ministry.
   + strong + personal **imperative**:
 
 ---
-<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
+<!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> -->
 I **charge** you
 
 in the presence of God and of Christ Jesus, <br>
 who is to judge the living and the dead
 
 [2 Timothy 4:1 (ESV)](# "ref")
+[Raphael, "St. Paul Preaching in Athens", 1515](http://www.the-athenaeum.org/art/detail.php?ID=34558 "caption")
 
 >>>
 + intensified form of root, **testify**
@@ -146,7 +147,7 @@ with complete **patience** and **teaching**.
 + Paul **charges** Tim:
   + solemn **declaration**
 + you were **made** to do this
-+ what does it **mean** to preach? 
++ what is our Lord's **command**?
 
 ---
 <!-- .slide: <%= bg("USAF_taps-170515-F-IT851-172.jpg") %> -->
@@ -277,11 +278,11 @@ reprove, **rebuke**, and exhort
   + to **encourage**:
 
 ---
-<!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
 reprove, rebuke, and **exhort**
 
 [2 Timothy 4:2c (ESV)](# "ref")
-[&copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
+[Joshua Clay](https://unsplash.com/photos/VNjNtdu0yCw "caption")
 
 >>>
 + (παρακάλεσον): **encourage**
@@ -294,6 +295,17 @@ reprove, rebuke, and **exhort**
 + not forever **label** as outsiders
 + **join** with the **family** of God
   + and the **work** of His kingdom
+
+---
+<!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
+**Preach** the word; <br>
+be **ready** in season and out of season; <br>
+**reprove**, **rebuke**, and **exhort**
+
+[2 Timothy 4:2a-c (ESV)](# "ref")
+[&copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
+
+>>>
 + e.g., JJ @4yo tantrum wanting toy:
 + reprove: calm down and
   + **walk through** what just happened
@@ -313,6 +325,8 @@ reprove, rebuke, and **exhort**
     + pray, sorry, care for mom, pick up thrown toys
     + doesn't **pay** for damage done
   + but provides a **path** home
++ (1) what, (2) when, (3) actions,
+  + lastly, (4) **attitude**:
 
 ---
 <!-- .slide: <%= bg("father_son_walk.jpg") %> -->
@@ -559,7 +573,7 @@ will go on from bad to **worse**, <br>
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
 do the **work** of an **evangelist**, <br>
-**fulfill** your **ministry**.
+fulfill your ministry.
 
 [2 Timothy 4:5b (ESV)](# "ref")
 
@@ -575,7 +589,18 @@ do the **work** of an **evangelist**, <br>
 + so what **work** is there for us to do?
   + **proclaim**: herald, ambassador
   + **teach**: mentor, example, invite
++ not only in **words**, but also a lifestyle of **serving**:
+
+---
+<!-- .slide: <%= bg("pixabay-1238379-waitress.jpg") %> -->
+do the work of an evangelist, <br>
+**fulfill** your **ministry**.
+
+[2 Timothy 4:5c (ESV)](# "ref")
+
+>>>
 + **serve** (ministry): waiting tables
+  + e.g., Stephen: **deacons**
   + voluntary action to **assist**
   + **strengthen** the weak in faith
   + **restore** those who have **stumbled**
