@@ -347,6 +347,11 @@ with complete **patience** and **teaching**.
 >>>
 + live as **ambassadors** in foreign land
 + not **optional**: imminent **return**
++ need to **know** the message
+  + **read** the Bible
++ so we can **discern** falsehood
+  + and stay **focused**
+  + amid **opposition**
 
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> class="outline" -->
@@ -437,6 +442,9 @@ and **wander off** into **myths**.
   + **fiction**, but claims to **represent** what God would say
   + made up based on **own** exp
   + rather than **Scripture**
++ how to **discern** truth vs mythology?
+  + be **immersed** in truth
+  + e.g., bank tellers
 + **expect** our society to turn to these!
   + **orientation**: turn away fr truth,
   + **natural** path: continue further
