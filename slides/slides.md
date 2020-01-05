@@ -592,7 +592,7 @@ do the **work** of an **evangelist**, <br>
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I become mentally **drunken** and neglected <br> my **ministry**?
+# Have I become mentally **drunken**, neglecting <br> my **ministry**?
 
 >>>
 + **mental** fortitude:
