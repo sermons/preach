@@ -13,9 +13,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is our **mandate** as men+women <br> of God?
-
-[###](#/outline "secret")
+# What is our **mandate** as people <br> of God?
 
 >>>
 + for individual: purpose, **calling**
@@ -25,7 +23,7 @@
   + given us fruitful **labour**
   + **together** as body of Christ
 
----
+******
 [1](# "ref")
 I charge you in the presence <br>
 of God and of Christ Jesus, <br>
@@ -40,7 +38,7 @@ with complete patience and teaching.
 
 [2 Timothy 4:1-5 (ESV) (p.1/3)](# "ref")
 
----
+******
 [3](# "ref")
 For the time is coming when people <br>
 will not endure sound teaching,
@@ -54,7 +52,7 @@ and wander off into myths.
 
 [2 Timothy 4:1-5 (ESV) (p.2/3)](# "ref")
 
----
+******
 [5](# "ref")
 As for you, always be sober-minded, <br>
 endure suffering, <br>
