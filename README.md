@@ -1,7 +1,7 @@
 # Preach the Word
 ## 2 Timothy 4:1-5
 
-[![Build status](https://travis-ci.org/sermons/preach.svg)](https://travis-ci.org/sermons/preach)
+[![Build status](https://api.travis-ci.org/sermons/preach.svg)](https://travis-ci.org/github/sermons/preach)
 [![Node deps](https://david-dm.org/sermons/preach.svg)](https://david-dm.org/sermons/preach)
 [![Node devDeps](https://david-dm.org/sermons/preach/dev-status.svg)](https://david-dm.org/sermons/preach?type=dev)
 
